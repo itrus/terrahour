@@ -4,7 +4,7 @@ A world clock for people who work across time zones, in a single HTML file.
 
 It shows a dot-matrix world map with live day and night, a 24-hour timeline for every city with working hours and daylight, the hours your team has in common, upcoming clock changes, and the sun and moon for any city. Everything runs in the browser, works offline, and needs no build step, no server and no account.
 
-**Live version:** https://[username].github.io/[repository]/
+**Live version:** https://itrus.github.com/terrahour/
 
 This is a browser port of [terrahour](https://github.com/ACoci86/terrahour) by Alessio Coci, a terminal world clock written in Python. The original design and logic were translated to HTML, CSS and JavaScript, and several features were added (see [What is new in the web version](#what-is-new-in-the-web-version)).
 
